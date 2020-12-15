@@ -1,6 +1,6 @@
 # 属于码农的海洋奇缘
 
-![welcome](/timg.jfif)
+![welcome](https://github.com/dhs4654/dhs4654.github.io/timg.jfif)
 
 
 
