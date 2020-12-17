@@ -52,6 +52,6 @@
 #### improving...
 
 ##### way to contact me:
-</br>QQ:1934338704
-</br>Wechat:LvShuqingLing
-</br>steam/uplay/Epic/Origin: dhs4654
+###### QQ:1934338704
+###### Wechat:LvShuqingLing
+###### steam/uplay/Epic/Origin: dhs4654
