@@ -23,6 +23,8 @@
 #### As well
 ![picture2](https://sponge-bob.netlify.app/img/krusty_krab.webp)
 
+
+
 ## My leisure time
 #### Rpg
 ![wizard](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3470271064,528027285&fm=26&gp=0.jpg)
@@ -35,6 +37,14 @@
 ![kindom](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1608218685580&di=2e826c7b9c89609ebf12bcbcccf24640&imgtype=0&src=http%3A%2F%2Fnews.yxrb.net%2Fuploadfile%2F2019%2F0522%2F20190522044628611.jpg)
 ![cil](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1608218729316&di=3a9ab6e3dd3cb08d99a772b5c4b05adb&imgtype=0&src=http%3A%2F%2Fimg.yxbao.com%2Farticle%2Fimage%2F201612%2F20%2F2dae044467.jpg)
 
+
+## others:
+![engin](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1608264465197&di=4f2ab81788bfa3b2321243119c31fbd7&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20181222%2Ffbc886ce30414f21900b2b4684d25ae4.jpeg)
+![unity](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=161556808,2099329341&fm=26&gp=0.jpg)
+![cg](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1608264549635&di=f9da5b991ddabe0a122512b3cc079d59&imgtype=0&src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_match%2F0%2F9503918226%2F0.jpg)
+![ariti](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1608264649816&di=f629a00112a3655f7cf777b2756fdfe5&imgtype=0&src=http%3A%2F%2Fnews.guangyuwh.com%2Fimages%2F20171107163348.jpg)
+![wisdow](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1608264753500&di=cb18779e4a8572bc98d971776dc8bd11&imgtype=0&src=http%3A%2F%2Fpic1.zhimg.com%2Fv2-faa18941689fa0b18ffb1ddf0186dd8a_1440w.jpg%3Fsource%3D172ae18b)
+
 ## My work
 ### coding!
 ![code](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1387514850,255605970&fm=26&gp=0.jpg)
@@ -42,8 +52,11 @@
 ### And....coding!
 ![cod](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2081253402,877530652&fm=26&gp=0.jpg)
 
+
 ### Sure~
 ![ham](https://sponge-bob.netlify.app/img/krabby_patty.webp)
+
+
 
 ### 常用传送门：
 <br/>[哔哩哔哩](https://www.bilibili.com/)
@@ -52,6 +65,6 @@
 #### improving...
 
 ##### way to contact me:
-###### QQ:1934338704
-###### Wechat:LvShuqingLing
-###### steam/uplay/Epic/Origin: dhs4654
+ <br/> QQ:1934338704
+ <br/> Wechat:LvShuqingLing
+ <br/> steam/uplay/Epic/Origin: dhs4654
