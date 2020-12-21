@@ -13,7 +13,7 @@
 
 
 ### I am SpongBob，a cook as well as a student learning computer science and technology in XMU
-![picture](https://sponge-bob.netlify.app/img/portrait.webp)
+![picture](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1214074337,3775721772&fm=26&gp=0.jpg)
 
 ### Welcome to my Github personal Page
 [Spongebob's Pineapple House](https://github.com/dhs4654)
